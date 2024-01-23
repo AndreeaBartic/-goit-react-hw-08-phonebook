@@ -38,9 +38,7 @@ code {
 .navbar a:hover {
   color: #129cb2;
 }
-.home {
-  background-image: url('');
-}
+
 .home h1 {
   padding-top: 170px;
 }
